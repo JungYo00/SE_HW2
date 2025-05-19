@@ -2,6 +2,10 @@
 90706
 </br>
 
+## github 주소
+https://github.com/JungYo00/SE_HW2
+</br>
+
 ## Requirement list
 | No. | Requirements | Use Case |
 | --- | --- | --- |
